@@ -1,4 +1,4 @@
-FROM gcr.io/distroless/java:8
+FROM registry.cn-hangzhou.aliyuncs.com/joint-union/java8
 
 LABEL maintainer="SoftInstigate <info@softinstigate.com>"
 
